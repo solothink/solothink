@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Abhilash N from manglore.<br><br>- 🔭 I’m working as freelancer.<br>- 📚 I'm currently studying BE(CSE).<br>- ⚡ In my free time I spend my time on my career growth.</p>
+<p align="left">I'm Abhilash N from manglore.<br><br>- 🔭 I’m working as Backend-Developer<br>- 📚 I'm currently @grow4tech.<br>- ⚡ In my free time I spend my time on my career growth.</p>
 
 ###
 
